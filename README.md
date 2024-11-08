@@ -1,6 +1,5 @@
 ## Hi there 👋, I’m @thekk311 (KUNDAN KUMAR)
 
-<!--
 **TheKK311/TheKK311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://linkedin.com/in/thekundankumarji or meetkkc7@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Win or to lose it's our/ypur choice.
--->
+
