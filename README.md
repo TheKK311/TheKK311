@@ -1,4 +1,4 @@
-## Hi there 👋, I’m @TheKK311311 (Kundan Kumar)
+## Hi there 👋, I’m @TheKK311 (Kundan Kumar)
 
 **TheKK311/TheKK311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
