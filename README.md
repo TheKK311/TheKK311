@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m recently working on Hotel Management Project
+- 🔭 I was recently worked on Hotel Management Project
 - 👯 I’m looking to collaborate on Social Projects
 - 🤔 I’m looking for Full Stack Developer Job
 - 💬 Ask me about MERN Stack
