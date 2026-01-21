@@ -4,13 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on E-commerce Project
-- 🌱 I’m currently learning Advance Programming & Development
+- 🔭 I’m recently working on Hotel Management Project
 - 👯 I’m looking to collaborate on Social Projects
-- 🤔 I’m lookingforh Full StackDeveloper Job
+- 🤔 I’m looking for Full Stack Developer Job
 - 💬 Ask me about MERN Stack
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Win or to lose it's our/ypur choice.
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Win or to lose it's our/your choice.
 
 
 - 📫 How to reach me: ... https://linkedin.com/in/thekundankumarji or meetkkc7@gmail.com
